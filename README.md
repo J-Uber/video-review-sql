@@ -1,1 +1,1 @@
-# video-review-sql
+The purpose of this code is to create an SQL database using Heroku's Postgres SQL. I will use then create a front end to interact with the database allowing me to input data and generate reports based on the data. 
